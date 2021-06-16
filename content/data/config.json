@@ -34,7 +34,8 @@
                 "url": "/subscribe",
                 "style": "primary"
             }
-        ]
+        ],
+        "logo_alt": "Viswadha Raju"
     },
     "footer": {
         "logo": "images/logo.svg",
