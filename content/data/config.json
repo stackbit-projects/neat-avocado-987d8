@@ -111,7 +111,7 @@
     },
     "announcement": {
         "has_anncmnt": true,
-        "anncmnt_content": "![](/\\_static/app-assets/images/5-58825\\_telephone-phone-icon-phone-symbol-png-yellow-transparent.png) [**Learn More**](/pricing/)\n",
+        "anncmnt_content": " [**Learn More**](/pricing/)\n",
         "anncmnt_align": "left",
         "anncmnt_is_home_only": true,
         "anncmnt_has_close": true,
